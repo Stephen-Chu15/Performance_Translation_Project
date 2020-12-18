@@ -52,3 +52,22 @@ in this category than those with above average percentages in college. However, 
 above average field goal percentage in college, and below average percentage in the NBA. There is the least number of players in this category, making the data trend
 towards the idea that field goal percentages will either stay similar or get better, more likely than to get worse. This can provide a peace of mind for NBA GMs as a 3-
 point sharpshooter in college will probably succeed in the NBA, or if a player needs to work on his shot, it’s not unheard of to progress significantly.
+
+![](ProjectPlots/gamesvswinsharesBar.png)
+![](ProjectPlots/gamesvswinsharesScatter.png)
+
+Unfortunately, the data that we were working with showed that games played varies from player to player instead of giving a definitive year played. (this is taking into
+consideration that some players play longer due to being active in tournaments). However, as seen with the scatter plot above, there is a natural divide between 1st,
+2nd, 3rd, and 4th year players. And the first plot compares it to win shares, where above average NBA win shares are found mostly with players at 2 years or below in
+college. The largest bar is with below average NBA players spending above average time in college. That doesn’t bode well for the idea that staying in college can help a
+prospect hone their game.
+
+![](ProjectPlots/gamesvsPERBar.png)
+![](ProjectPlots/gamesvsPERScatterr.png)
+
+Finally, the last plot the team did was about time spent in college and how it translates to PER, or player efficiency rating. This was most telling about how time
+spent in college affects player performance, as clearly there is a divide between extremes. The number of players with below average time spent in college have
+significantly higher PER’s than those who stayed, and those who stayed above the average time spent in college have significantly more below average PER’s. This can
+provide some proof that players who leave college early, are usually more prepared and naturally talented than those who need to stay in college and develop at the
+collegiate level. And on the other side, we can hypothesize that players who develop outside of college longer, meaning with professional trainers, paid nutritionists, and
+team doctors, probably develop better than players who spend their youth developing in college environments, where equipment and personnel aren’t quite as professional.
