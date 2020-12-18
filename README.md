@@ -84,7 +84,7 @@ prospect hone their game.
 
 
 ![](ProjectPlots/gamesvsPERBar.png)
-![](ProjectPlots/gamesvsPERScatterr.png)
+![](ProjectPlots/gamesvsPERScatter.png)
 
 Finally, the last plot the team did was about time spent in college and how it translates to PER, or player efficiency rating. This was most telling about how time
 spent in college affects player performance, as clearly there is a divide between extremes. The number of players with below average time spent in college have
