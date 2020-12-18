@@ -2,6 +2,7 @@
 
 Our project aims to understand how weight, height, field goal percentage, and time spent in the NCAA ultimately translate over into the NBA.
 
+
 ![](ProjectPlots/BinnedWeight.png)
 
 The graph above demonstrates that as weight increases, so does the amount of rebounds a player will average in the NBA. Similarly, the projected number of blocks
@@ -37,6 +38,7 @@ consider for upside. Overall, it seems that height can give a better look at how
 have data that supports a difference when it comes to college players height compared to weight.
 
 ![](ProjectPlots/BinnedFG.png)
+
 Looking at the overall box score statistics of the binned shooting percentages, it seems that there is a trend in PER and higher shooting percentage. There are some
 outliers, namely in the first two ranges, but after that the PER (player efficiency rating) of a player increases as field goal percentage increases. This is the same for
 offensive win shares, meaning that the offensive plays of these player contribute more to wins for their team. The only stat that doesn’t vary is points per game
