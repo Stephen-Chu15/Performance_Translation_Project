@@ -22,6 +22,9 @@ having a similar value. This might be because an NBA players weight can fluctuat
 lose weight as easily as they can gain it with proper workout and nutrition.
 
 
+
+
+
 ![](ProjectPlots/BinnedHeight.png)
 
 A similar story can be generated for a player’s height in college. As height increases, the general trend is that rebounds increase. As mentioned previously, blocks also
@@ -39,6 +42,9 @@ players who were above average in height compared to those below average in heig
 having an above average height seems to translate into better performance in the NBA than weight. This is not a hard conclusion, just something an NBA GM might
 consider for upside. Overall, it seems that height can give a better look at how successful an NBA player will be from college compared to weight, only because we
 have data that supports a difference when it comes to college players height compared to weight.
+
+
+
 
 
 ![](ProjectPlots/BinnedFG.png)
@@ -61,6 +67,9 @@ towards the idea that field goal percentages will either stay similar or get bet
 point sharpshooter in college will probably succeed in the NBA, or if a player needs to work on his shot, it’s not unheard of to progress significantly.
 
 
+
+
+
 ![](ProjectPlots/gamesvswinsharesBar.png)
 ![](ProjectPlots/gamesvswinsharesScatter.png)
 
@@ -69,6 +78,9 @@ consideration that some players play longer due to being active in tournaments).
 2nd, 3rd, and 4th year players. And the first plot compares it to win shares, where above average NBA win shares are found mostly with players at 2 years or below in
 college. The largest bar is with below average NBA players spending above average time in college. That doesn’t bode well for the idea that staying in college can help a
 prospect hone their game.
+
+
+
 
 
 ![](ProjectPlots/gamesvsPERBar.png)
