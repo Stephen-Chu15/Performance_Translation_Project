@@ -10,6 +10,7 @@ that can be expected at higher weights increases. Although the count of stats ap
 recorded at 3.1 blocks by Hassan Whiteside. This means when taking the average of the other players, the value may be presented lower than 1. The other noticeable
 trend is in the assist category. This could be because lighter players will end up as guards in the NBA, who tend to have higher percentages in these categories.
 
+
 ![](ProjectPlots/weightvsboxplusminusBar.png)
 ![](ProjectPlots/weightvsboxplusminusScatter.png)
 
@@ -20,12 +21,14 @@ team ended up being up by 3. So, this plot tells us that weight is not a good me
 having a similar value. This might be because an NBA players weight can fluctuate, meaning a weight in college doesn’t make or break a player in the NBA. A player can
 lose weight as easily as they can gain it with proper workout and nutrition.
 
+
 ![](ProjectPlots/BinnedHeight.png)
 
 A similar story can be generated for a player’s height in college. As height increases, the general trend is that rebounds increase. As mentioned previously, blocks also
 exhibit an increasing trend, even though the count of stats is reflected as 1. With respect to assists, as the players’ height increases, the count of stats exhibits a
 decline in this category. Finally, the other two categories (steals and turnovers), don’t seem to have a general trend because their values stay rather consistent
 across the board.
+
 
 ![](ProjectPlots/weightvsboxplusminusBar.png)
 ![](ProjectPlots/weightvsboxplusminusScatter.png)
@@ -37,6 +40,7 @@ having an above average height seems to translate into better performance in the
 consider for upside. Overall, it seems that height can give a better look at how successful an NBA player will be from college compared to weight, only because we
 have data that supports a difference when it comes to college players height compared to weight.
 
+
 ![](ProjectPlots/BinnedFG.png)
 
 Looking at the overall box score statistics of the binned shooting percentages, it seems that there is a trend in PER and higher shooting percentage. There are some
@@ -44,6 +48,7 @@ outliers, namely in the first two ranges, but after that the PER (player efficie
 offensive win shares, meaning that the offensive plays of these player contribute more to wins for their team. The only stat that doesn’t vary is points per game
 (PPG). An explanation for this could be that role players who shoots high percentage shots such as 3-point specialists and rim-running centers have a specific role in the
 NBA, and thus don’t have the ball much in their hands, or don’t need the ball in their hands too long to shoot effectively.
+
 
 ![](ProjectPlots/fgvsfgBar.png)
 ![](ProjectPlots/fgvsfgScatter.png)
@@ -55,6 +60,7 @@ above average field goal percentage in college, and below average percentage in 
 towards the idea that field goal percentages will either stay similar or get better, more likely than to get worse. This can provide a peace of mind for NBA GMs as a 3-
 point sharpshooter in college will probably succeed in the NBA, or if a player needs to work on his shot, it’s not unheard of to progress significantly.
 
+
 ![](ProjectPlots/gamesvswinsharesBar.png)
 ![](ProjectPlots/gamesvswinsharesScatter.png)
 
@@ -63,6 +69,7 @@ consideration that some players play longer due to being active in tournaments).
 2nd, 3rd, and 4th year players. And the first plot compares it to win shares, where above average NBA win shares are found mostly with players at 2 years or below in
 college. The largest bar is with below average NBA players spending above average time in college. That doesn’t bode well for the idea that staying in college can help a
 prospect hone their game.
+
 
 ![](ProjectPlots/gamesvsPERBar.png)
 ![](ProjectPlots/gamesvsPERScatterr.png)
