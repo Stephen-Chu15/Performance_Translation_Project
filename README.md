@@ -1,4 +1,4 @@
-# Performance_Translation_Project
+# Performance Translation Project
 
 Our project aims to understand how weight, height, field goal percentage, and time spent in the NCAA ultimately translate over into the NBA.
 
